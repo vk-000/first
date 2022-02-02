@@ -4,3 +4,4 @@ My backlog
 1.3 As a user I want to export data
 1.4 As a user I want to view data on my mobile
 1.5 As a user I want to configure view of my system
+1.6 As an administrator i want to generate reports
