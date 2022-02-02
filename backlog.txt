@@ -6,3 +6,4 @@ My backlog
 1.5 As a user I want to configure view of my system
 1.6 As an administrator i want to generate reports
 1.7 As an administartor i want to see data
+1.8 As a user i want to see changes in my account
